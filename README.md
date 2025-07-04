@@ -17,7 +17,10 @@ Before diving into SQL, it’s important to understand the dataset thoroughly. T
 - `Album_type`: The type of album (e.g., single or album).
 - Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
 
-### 4. Querying the Data
+### 2. Exploratory Data Analysis (EDA)
+The dataset has been explored to answer various questions like total number of artists, total tracks, total tracks in an album, total channels, detecting and deleting outliers, many more.
+
+### 3. Querying the Data
 After the data is inserted, various SQL queries can be written to explore and analyze the data. The analysis incorporates various concepts of **SQL** like filtering, aggregations, grouping, window functions, CTEs and many more.
 
 ## 15 Practice Questions
