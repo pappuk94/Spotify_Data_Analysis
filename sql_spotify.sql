@@ -3,7 +3,10 @@ select * from spotify;
 -- Total rows
 select count(*) from spotify;
 
+--------------------------------------------------------------
 -- EDA 
+--------------------------------------------------------------
+
 select count(distinct artist) from spotify;  -- total artists
 select count(distinct track) from spotify;  -- total tracks
 
